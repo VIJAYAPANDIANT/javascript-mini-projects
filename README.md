@@ -16,19 +16,19 @@ These projects are designed to demonstrate fundamental and advanced web developm
 
 | No. | Project Name | Description | Key Tech / Concept |
 |:---:|:---|:---|:---|
-| 01 | [Weather App](file:///c:/JavaScript%20Mini%20Projects/Weather%20App.html) | Real-time weather data using Open-Meteo API. | `fetch()`, `async/await` |
-| 02 | [Calculator](file:///c:/JavaScript%20Mini%20Projects/Calculator.html) | Fully functional arithmetic calculator. | `eval()`, CSS Grid |
-| 03 | [Stopwatch](file:///c:/JavaScript%20Mini%20Projects/Stopwatch.html) | Precision digital timer with millisecond tracking. | `setInterval`, `Date.now()` |
-| 04 | [Digital Clock](file:///c:/JavaScript%20Mini%20Projects/Digital%20clock.html) | Real-time clock with Glassmorphism effect. | `Date()`, `backdrop-filter` |
-| 05 | [Dice Roller](file:///c:/JavaScript%20Mini%20Projects/Dice%20Roller.html) | Multiple dice simulator with visual output. | `Math.random()`, Arrays |
-| 06 | [Rock Paper Scissors](file:///c:/JavaScript%20Mini%20Projects/Rock%20Paper%20Scissors%20Game.html) | Classic game against an AI opponent. | Game Logic, `switch` |
-| 07 | [Counter App](file:///c:/JavaScript%20Mini%20Projects/Counter.html) | Simple increment/decrement tool. | Event Listeners |
-| 08 | [Interest Calculator](file:///c:/JavaScript%20Mini%20Projects/Interest%20Calculator.html) | Compound interest calculation tool. | Math Logic, Input Validation |
-| 09 | [Temperature Converter](file:///c:/JavaScript%20Mini%20Projects/Temperature%20Conversion.html) | Converts between Celsius and Fahrenheit. | Algebra, Radio States |
-| 10 | [Radius Calculator](file:///c:/JavaScript%20Mini%20Projects/Radius%20of%20a%20Circle.html) | Circle area and circumference calculator. | `Math.PI` |
-| 11 | [Number Guessing Game](file:///c:/JavaScript%20Mini%20Projects/Number%20Guessing%20Game.html) | Interactive browser-based guessing game. | Loops, `window.prompt` |
-| 12 | [Random Number Tool](file:///c:/JavaScript%20Mini%20Projects/Random%20Number%20Genarator.html) | Instant random number generator (1-100). | `Math.floor` |
-| 13 | [Password Generator](file:///c:/JavaScript%20Mini%20Projects/Random%20Password%20Generator.html) | Secure and customizable password generator. | Logic, String Manipulation |
+| 01 | [Weather App](Weather%20App.html) | Real-time weather data using Open-Meteo API. | `fetch()`, `async/await` |
+| 02 | [Calculator](Calculator.html) | Fully functional arithmetic calculator. | `eval()`, CSS Grid |
+| 03 | [Stopwatch](Stopwatch.html) | Precision digital timer with millisecond tracking. | `setInterval`, `Date.now()` |
+| 04 | [Digital Clock](Digital%20clock.html) | Real-time clock with Glassmorphism effect. | `Date()`, `backdrop-filter` |
+| 05 | [Dice Roller](Dice%20Roller.html) | Multiple dice simulator with visual output. | `Math.random()`, Arrays |
+| 06 | [Rock Paper Scissors](Rock%20Paper%20Scissors%20Game.html) | Classic game against an AI opponent. | Game Logic, `switch` |
+| 07 | [Counter App](Counter.html) | Simple increment/decrement tool. | Event Listeners |
+| 08 | [Interest Calculator](Interest%20Calculator.html) | Compound interest calculation tool. | Math Logic, Input Validation |
+| 09 | [Temperature Converter](Temperature%20Conversion.html) | Converts between Celsius and Fahrenheit. | Algebra, Radio States |
+| 10 | [Radius Calculator](Radius%20of%20a%20Circle.html) | Circle area and circumference calculator. | `Math.PI` |
+| 11 | [Number Guessing Game](Number%20Guessing%20Game.html) | Interactive browser-based guessing game. | Loops, `window.prompt` |
+| 12 | [Random Number Tool](Random%20Number%20Genarator.html) | Instant random number generator (1-100). | `Math.floor` |
+| 13 | [Password Generator](Random%20Password%20Generator.html) | Secure and customizable password generator. | Logic, String Manipulation |
 
 ---
 
@@ -80,7 +80,7 @@ The classic game implemented with score tracking.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/VIJAYAPANDIANT/JavaScript-Mini-Projects.git
+    git clone https://github.com/VIJAYAPANDIANT/javascript-mini-projects.git
     ```
 2.  **Open Projects:**
     - Navigate to the project folder.
