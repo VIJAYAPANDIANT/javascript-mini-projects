@@ -65,6 +65,41 @@ The classic game implemented with score tracking.
 *   **Features:** Win/Loss/Tie evaluation and color-coded result feedback.
 <img width="418" alt="Rock Paper Scissors" src="https://github.com/user-attachments/assets/29c55b1e-12b8-46b0-91d0-158ee56a761f" />
 
+### ➕ 7. Counter App
+A responsive number counter with increment, decrement, and reset controls.
+*   **Features:** Real-time count tracking with interactive button events.
+<img width="305" alt="Counter App" src="https://github.com/user-attachments/assets/3628a604-b05d-41a6-947b-af6621139e66" />
+
+### 💰 8. Interest Calculator
+A financial calculator for computing compound interest.
+*   **Features:** Computes total accrued amount based on principal, interest rate, and years formatted as currency.
+<img width="319" alt="Interest Calculator" src="https://github.com/user-attachments/assets/42c7772a-35bf-4a01-894a-72a45f29825c" />
+
+### 🌡️ 9. Temperature Converter
+Converts temperature values between Celsius and Fahrenheit.
+*   **Features:** Directional conversion via radio buttons with accurate decimal rounding.
+<img width="235" alt="Temperature Converter" src="https://github.com/user-attachments/assets/f20df511-8780-4e67-9363-163a7c07ebee" />
+
+### 📏 10. Radius Calculator
+Calculates geometric properties of a circle.
+*   **Features:** Computes both circumference and area from user-entered radius values using `Math.PI`.
+<img width="232" alt="Radius Calculator" src="https://github.com/user-attachments/assets/fc16f605-8f24-4047-8cce-5961c8b63292" />
+
+### ❓ 11. Number Guessing Game
+An interactive number guessing challenge.
+*   **Features:** Browser prompt interface tracking the number of guesses to find a random target (1–100).
+<img width="340" alt="Number Guessing Game" src="https://github.com/user-attachments/assets/5f147c3c-1b45-4d9c-b2f5-40c62489b9e2" />
+
+### 🎲 12. Random Number Generator
+An instant random number generator utility.
+*   **Features:** Generates and displays random numbers between 1 and 100 on button click.
+<img width="146" alt="Random Number Tool" src="https://github.com/user-attachments/assets/92106b89-4cdd-4082-99db-d1ec206f5e74" />
+
+### 🔐 13. Password Generator
+A customizable and secure random password generator.
+*   **Features:** Generates strong passwords with configurable length and character sets (uppercase, lowercase, numbers, symbols).
+<img width="483" alt="Password Generator" src="https://github.com/user-attachments/assets/debe33e3-c24e-49b7-a531-db402a1505c7" />
+
 ---
 
 ## 🛠️ Tech Stack
